@@ -1,0 +1,29 @@
+2024-05-13 14:27:53.084 [info] Started local extension host with pid 125892.
+2024-05-13 14:27:53.115 [info] Started initializing default profile extensions in extensions installation folder. file:///home/willssedgar/.vscode-oss/extensions
+2024-05-13 14:27:53.541 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/willssedgar/.vscode-oss/extensions
+2024-05-13 14:27:56.364 [info] [perf] Render performance baseline is 33ms
+2024-05-13 14:47:43.003 [error] Cancelled: Canceled
+    at ee.queryRawGalleryExtensions (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:792:28590)
+    at async ee.queryGalleryExtensions (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:792:24899)
+    at async ee.queryGalleryExtensions (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:792:26003)
+    at async J (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:792:23743)
+    at async ee.query (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:792:24088)
+    at async Q.queryGallery (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2483:18925)
+    at async ne.queryGallery (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2419:30196)
+    at async ne.query (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2419:20006)
+    at async vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:2419:17894
+2024-05-13 14:48:46.164 [info] Started local extension host with pid 167336.
+2024-05-13 14:48:49.448 [info] [perf] Render performance baseline is 34ms
+2024-05-13 14:57:14.882 [warning] Semantic token with invalid length detected at lineNumber 27, column 1
+2024-05-13 16:00:08.700 [error] Invalid debug adapter: Error: Invalid debug adapter
+    at i.getDebugAdapter (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1735:136)
+    at i.$acceptDAExit (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1735:35)
+    at u._doInvokeHandler (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1636:18848)
+    at u._invokeHandler (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1636:18530)
+    at u._receiveRequest (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1636:17300)
+    at u._receiveOneMessage (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1636:16201)
+    at h.value (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1636:14049)
+    at n._deliver (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:89:837)
+    at n.fire (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:89:1156)
+    at r.fire (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:629:17261)
+    at U.onmessage (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1654:11168)

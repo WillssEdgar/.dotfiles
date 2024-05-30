@@ -1,0 +1,6 @@
+{
+    "vscode-neovim.afterInitConfig": [
+        "neovim.neovimExecutablePaths./usr/bin/nvim"
+    ],
+    "keyboard.dispatch": "keyCode",
+}

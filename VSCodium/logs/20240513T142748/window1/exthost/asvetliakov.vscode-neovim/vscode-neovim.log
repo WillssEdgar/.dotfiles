@@ -1,0 +1,18 @@
+2024-05-13 14:50:10.685 [info] 
+[mason-lspconfig.nvim] installing java_language_server
+2024-05-13 14:50:22.697 [info] 
+[mason-lspconfig.nvim] failed to install java_language_server. Installation logs are available in :Mason and :MasonLog
+
+2024-05-13 14:56:44.259 [info] 
+Error detected while processing VimEnter Autocommands for "*":
+E5555: API call: VimEnter Autocommands for "*"..script nvim_exec2() called at VimEnter Autocommands for "*":0: Vim:E492: Not an editor command: neovim.neovimExecutablePaths./usr/bin/nvim
+2024-05-13 14:56:44.456 [info] 
+[mason-lspconfig.nvim] installing java_language_server
+2024-05-13 14:56:54.942 [info] 
+Spawning language server with cmd: `./bin/dart` failed. The language server is either not installed, missing from PATH, or not executable.
+2024-05-13 14:57:00.601 [info] 
+[mason-lspconfig.nvim] failed to install java_language_server. Installation logs are available in :Mason and :MasonLog
+2024-05-13 14:57:43.194 [info] 
+1 change; before #6  16 seconds ago
+2024-05-13 15:57:35.959 [info] 
+E464: Ambiguous use of user-defined command
