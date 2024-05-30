@@ -1,0 +1,17 @@
+dconf/
+flutter/
+gh/
+gnome-session/
+go/
+Google/
+gtk-3.0/
+ibus/
+kde.org/
+picom/
+.gsd-keyboard.settings-ported
+dolphinrc
+mimeapps.list
+monitors.xml
+starship.toml
+user-dirs.dirs
+user-dirs.locale
